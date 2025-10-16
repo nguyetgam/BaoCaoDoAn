@@ -1,0 +1,30 @@
+.card {
+    overflow: hidden;
+}
+
+.card  {
+    transition: all 0.5s;
+
+}
+
+.card:hover  {
+    transform: scale(1.05);
+}
+
+.navbar{
+    background-color:  rgb(253, 255, 239) !important;
+}
+.card{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.img-shadow{
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 0 5px 50px rgba(0, 0,0, 0.15);
+    margin-left: 80px;
+
+}
+.text{
+    margin-top: 130px;
+}
